@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "268956297433",
+    "firebase_url": "https://pber-dc4c6-default-rtdb.firebaseio.com",
+    "project_id": "pber-dc4c6",
+    "storage_bucket": "pber-dc4c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268956297433:android:143adaf0be90a27b38f6c8",
+        "android_client_info": {
+          "package_name": "com.example.memeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEUQ8k27hqIsibTNm0oOaVgkyINs7_Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
